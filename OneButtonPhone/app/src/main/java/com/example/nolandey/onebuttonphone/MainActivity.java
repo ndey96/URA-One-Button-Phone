@@ -35,7 +35,9 @@ public class MainActivity extends AppCompatActivity {
 
     private void callHusband() {
         Intent intent = new Intent(Intent.ACTION_CALL);
-        intent.setData(Uri.parse("tel:+1-289-230-2596"));
+        // 226-338-3795
+        // 647-530-8266
+        intent.setData(Uri.parse("tel:+1-226-338-3795"));
         Log.d("test", "attempting to call husband");
         try {
             startActivity(intent);
