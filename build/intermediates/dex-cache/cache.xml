@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nolandey/.android/build-cache/5f2673c9f86ecf08584d40b80a65fd18e935f012/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/nolandey/Desktop/Development/URA-Video-Caller/OneButtonPhone/app/build/intermediates/pre-dexed/debug/classes_819721e3ab2f35bc6e7d4908c99b707bcad4b446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nolandey/.android/build-cache/1fb7a140335445ce8ca7d65099b62903f9f772a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/nolandey/Desktop/Development/URA-Video-Caller/OneButtonPhone/app/build/intermediates/pre-dexed/debug/classes_a8758d468a5e621eba47649fceb1dfcea7cb5963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nolandey/.android/build-cache/0a05467e5c32f9bbe6930c1b204db0741953c11b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/nolandey/Desktop/Development/URA-Video-Caller/OneButtonPhone/app/build/intermediates/pre-dexed/debug/classes_ed9344ed6b3b37507f2a5d399da9e9f8290fd18d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nolandey/.android/build-cache/db302d33635afc920ddc26c6625f7ead2228080a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/nolandey/Desktop/Development/URA-Video-Caller/OneButtonPhone/app/build/intermediates/pre-dexed/debug/classes_fdf421ce37eafa382bc9a0f16dad37c25ae0a7da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nolandey/.android/build-cache/5101f66df76f23a8e2a775c22030be0c96513170/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/nolandey/Desktop/Development/URA-Video-Caller/OneButtonPhone/app/build/intermediates/pre-dexed/debug/classes_dd0172d306d560f422045befea8a460a442f2f25.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nolandey/Desktop/Development/URA-Video-Caller/OneButtonPhone/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/nolandey/Desktop/Development/URA-Video-Caller/OneButtonPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5cbbc3cdad9678f120c0d55f0351d739c2d74ae2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nolandey/.android/build-cache/669ce90840daebb20cd7f3510df61a7893e72b7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/nolandey/Desktop/Development/URA-Video-Caller/OneButtonPhone/app/build/intermediates/pre-dexed/debug/classes_5bddf2933692c95c4339ce39b17e80952ea33b2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nolandey/.android/build-cache/bf989a4fc7fd108ae11392db6bb3474a0c1a6e3b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/nolandey/Desktop/Development/URA-Video-Caller/OneButtonPhone/app/build/intermediates/pre-dexed/debug/classes_b4c41b0aba19dd7a78416bd0da648f1222534064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nolandey/.android/build-cache/39149e1ee5f2a85c8397a291f71a5f9d97063e43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nolandey/Desktop/Development/URA-Video-Caller/OneButtonPhone/app/build/intermediates/pre-dexed/debug/classes_9b0b9d18d435c240760b15cfc0f9167099df7588.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nolandey/.android/build-cache/9c5865126585f885199fe1bdff9a00dcfdde6a57/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/nolandey/Desktop/Development/URA-Video-Caller/OneButtonPhone/app/build/intermediates/pre-dexed/debug/classes_2d93458b7de74125ce2d4180aa8bea8f965c258d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nolandey/Desktop/Development/URA-Video-Caller/OneButtonPhone/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="05a72fd9c77c2ec3076f5be027671b74622a1ba4">
+        <dex dex="/Users/nolandey/Desktop/Development/URA-Video-Caller/OneButtonPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f65c65c8b484a2a5ca2e3e852a6f895762915cc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nolandey/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/nolandey/Desktop/Development/URA-Video-Caller/OneButtonPhone/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_0a185bbb40937afe4f8d423a17dfc673c4b6d62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nolandey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/nolandey/Desktop/Development/URA-Video-Caller/OneButtonPhone/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_9ca7730f0e9d52f89b4e84c4d90acc2db3dd26c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nolandey/.android/build-cache/b921be0051675af3612bca4948c0696a49e9d79d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/nolandey/Desktop/Development/URA-Video-Caller/OneButtonPhone/app/build/intermediates/pre-dexed/debug/classes_1cf76c2f2c5f268cf34b44c7b8c809fc99baf269.jar" />
+    </item>
+
+</items>
